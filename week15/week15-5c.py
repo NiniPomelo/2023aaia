@@ -1,3 +1,4 @@
+# SOIT107_ADVANCE_005
 a = int(input())
 b = int(input())
 
